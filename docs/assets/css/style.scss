@@ -2,3 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+
+footer {
+  position: relative;
+  margin-top: -2vh;
+  /* negative value of footer height */
+  height: 2vh;
+  clear: both;
+  background-color: red;
+}
