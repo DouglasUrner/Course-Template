@@ -1,4 +1,4 @@
-<h1>A Heading</h1>
+# A Heading
 
 <details>
   <summary>The Summary</summary>
