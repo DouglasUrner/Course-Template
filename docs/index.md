@@ -1,7 +1,7 @@
 # A Heading
 
 <details>
-  <summary>
+  <summary markdown="span">
   First Step
   </summary>
 
@@ -9,7 +9,7 @@
 </details>
 
 <details markdown="1">
-  <summary>
+  <summary markdown="span">
   Second Step
   </summary>
 
