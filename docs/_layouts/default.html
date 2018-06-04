@@ -20,5 +20,17 @@
     <footer class="footer">
         <a href="{{ site.github.repository_url }}"><small>Help improve this page.</small></a>
     </footer>
+
+    <script>
+      var myNodelist = document.getElementsByTagName("SUMMARY");
+      var i;
+      for (i = 0; i < myNodelist.length; i++) {
+        var span = document.createElement("SPAN");
+        var txt = document.createTextNode("A");
+        span.className = "done";
+        span.appendChild(txt);
+        myNodelist[i].appendChild(span);
+      }
+    </script>
   </body>
 </html>
