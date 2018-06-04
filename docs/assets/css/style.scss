@@ -3,15 +3,16 @@
 
 @import "{{ site.theme }}";
 
-body {
+html, body {
   height: 100%;
 }
-
-footer {
-  position: relative;
-  margin-top: -32px;
-  /* negative value of footer height */
-  height: 32px;
-  clear: both;
-  background-color: red;
+body {
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  flex: 1 0 auto;
+}
+.footer {
+  flex-shrink: 0;
 }
