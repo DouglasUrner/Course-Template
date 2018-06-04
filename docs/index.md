@@ -8,7 +8,7 @@
   The steps that are hidden.
 </details>
 
-<details markdown="1">
+<details>
   <summary markdown="span">
   Second Step
   </summary>
