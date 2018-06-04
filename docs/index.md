@@ -7,7 +7,7 @@
 
 <details>
   <summary>Second Step</summary>
-  1. Do this.
-  2. Then this.
-  3. Finally that.
+1. Do this.
+2. Then this.
+3. Finally that.
 </details>
