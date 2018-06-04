@@ -1,6 +1,6 @@
 # _plugins/details_tag.rb
 
-# From: http://movb.de/jekyll-details-support.html
+# From: http://movb.de/jekyll-details-support.html 
 
 module Jekyll
   module Tags
