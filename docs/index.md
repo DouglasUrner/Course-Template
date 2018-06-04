@@ -1,13 +1,17 @@
 # A Heading
 
 <details>
-  <summary>First Step</summary>
-  
+  <summary>
+  First Step
+  </summary>
+
   The steps that are hidden.
 </details>
 
 <details markdown="1">
-  <summary>Second Step</summary>
+  <summary>
+  Second Step
+  </summary>
 
 1. Do this.
 2. Then this.
