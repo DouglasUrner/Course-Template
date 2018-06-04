@@ -14,7 +14,3 @@
 3. Finally that.
 
 </details>
-
-{% details Read more about that **thing**... %}
-  That **thing** is...
-{% enddetails %}
