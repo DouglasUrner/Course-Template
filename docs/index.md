@@ -2,6 +2,7 @@
 
 <details>
   <summary>First Step</summary>
+  
   The steps that are hidden.
 </details>
 
