@@ -2,10 +2,12 @@
 
 <details>
   <summary>First Step</summary>
-  <p>The steps that are hidden.</p>
+  The steps that are hidden.
 </details>
 
 <details>
   <summary>Second Step</summary>
-  <p>The steps that are hidden.</p>
+  1. Do this.
+  2. Then this.
+  3. Finally that.
 </details>
