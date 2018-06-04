@@ -28,6 +28,7 @@
         var span = document.createElement("SPAN");
         var txt = document.createTextNode("A");
         span.className = "done";
+        span.idName = "step-" + i;
         span.appendChild(txt);
         myNodelist[i].appendChild(span);
       }
