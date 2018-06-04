@@ -2,10 +2,11 @@
 
 <details>
   <summary>First Step</summary>
+  
   The steps that are hidden.
 </details>
 
-<details markdown="1">
+<details>
   <summary>Second Step</summary>
 
 1. Do this.
