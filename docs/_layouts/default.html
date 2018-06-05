@@ -26,10 +26,13 @@
       var i;
       for (i = 0; i < myNodelist.length; i++) {
         var span = document.createElement("SPAN");
+        span.className = "floats-right";
+        
         var cb = document.createElement("INPUT");
         cb.className = "done";
         cb.type = "checkbox";
         cb.id = cb.name = "step-" + i;
+        
         span.appendChild(cb);
         myNodelist[i].appendChild(span);
       }
