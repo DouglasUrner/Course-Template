@@ -27,10 +27,9 @@
       for (i = 0; i < myNodelist.length; i++) {
         var span = document.createElement("SPAN");
         var cb = document.createElement("INPUT");
+        cb.className = "done";
         cb.type = "checkbox";
-        var txt = document.createTextNode("A");
-        span.className = "done";
-        cb.id = "step-" + i;
+        cb.id = cb.name = "step-" + i;
         span.appendChild(cb);
         myNodelist[i].appendChild(span);
       }
