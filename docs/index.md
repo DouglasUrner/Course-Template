@@ -7,7 +7,9 @@
 </details>
 
 <details>
-  <summary markdown="span">Second Step</summary>
+  <summary markdown="span">
+    Second Step
+  </summary>
 
 1. Do this.
 2. Then this.
