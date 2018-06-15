@@ -58,5 +58,5 @@
 
 * What is worth doing again?
 * What should we **not** do again?
-* How to encourage you to tinker?
+* How to encourage you to experiment / tinker?
 * How to keep class moving? But not leave folks behind?
