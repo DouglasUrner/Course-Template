@@ -3,11 +3,11 @@
 1. Pick an option.
 1. Take about 30 minutes (max) to research it.
 1. Then about 30 minutes to try to get it to work.
-1. Write...
+1. Your Advice...
 
 +++
 
-## TicTacToe Protocol
+## Tic-Tac-Toe Protocol
 
 +++
 
@@ -35,7 +35,7 @@
 
 ---
 
-Simplest possible tests:
+## Simplest possible tests:
 
 * Pseudocode.
 * Then very, very simple code. For example:
@@ -48,5 +48,15 @@ Simplest possible tests:
     }
   }
   ```
+
+* What's next
+* Submit
   
 ---
+
+## Your Advice...
+
+* What is worth doing again?
+* What should we **not** do again?
+* How to encourage you to tinker?
+* How to keep class moving? But not leave folks behind?
