@@ -8,7 +8,7 @@
 
 <details>
   <summary markdown="span">
-    Second Step
+  Second Step
   </summary>
 
 1. Do this.
